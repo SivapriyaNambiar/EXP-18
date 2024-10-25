@@ -269,7 +269,8 @@ int main()
 
 ### Output 
 (A) <br> 
-![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18A.png) 
+![image](https://github.com/user-attachments/assets/18996306-14d3-4679-9af2-970f5299f867)
+
 
 (B) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18B.png) 
